@@ -1,2 +1,2 @@
-<img src= 'images/image1.png'>
-<img src= 'images/image2.png'>
+<img src= 'Images/image1.png'>
+<img src= 'Images/image2.png'>
