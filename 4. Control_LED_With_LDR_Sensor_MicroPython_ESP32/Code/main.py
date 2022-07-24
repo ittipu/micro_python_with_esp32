@@ -11,7 +11,7 @@ thresholdValue = 400 # Set the threshold value for led turn on
 
 
 pot = ADC(Pin(34)) # Connect the LDR pin to D34 of ESP32
-led = Pin(22, Pin.OUT) # Connect the LED pin to D22 of ESP32
+led = Pin(23, Pin.OUT) # Connect the LED pin to D22 of ESP32
 
 pot.atten(ADC.ATTN_11DB) # Full range: 3.3v
 
