@@ -25,6 +25,8 @@
 </p>
 
 <img src = "Images/circuit_diagram.png" width="200" height = "200">
+<img src = "Images/schematic_diagram.png">
+
 <img src = "Images/image1.png">
 <img src = "Images/image2.png">
 <img src = "Images/image3.png">
