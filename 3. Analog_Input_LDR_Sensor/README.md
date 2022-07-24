@@ -15,6 +15,6 @@ Pin Diagram  -
 3. Connect the other resistor leg to ground.
 4. Connect a connecting wire to ldr-resistor leg to D34 pin of ESP32.
 
-<img src = "images/image1.png">
+<img src = "Images/circuit_diagram.png" width="200" height = "200">
 
 
