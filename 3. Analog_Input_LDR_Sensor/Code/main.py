@@ -1,3 +1,10 @@
+# Micro-Python
+# LDR value(analog) input
+# Md. Kamruzzaman Tipu
+# IoT Engineer, BRACNet Limited.
+# it.ktipu@gmail.com, +8801715497977 (Whats app)
+
+
 from machine import Pin, ADC
 from time import sleep
 
