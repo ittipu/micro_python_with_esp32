@@ -30,7 +30,8 @@ ldr sensor value below from threshold value then the led will turn on.</p>
 </p>
 
 <img src = "Images/circuit_diagram.png" width="600" height = "400">
-<img src = "Images/schematic_diagram.png" width="300" height = "500">
+<img src = "Images/schematic_diagram.png" width="200" height = "600">
+
 
 <img src = "Images/image1.png">
 <img src = "Images/image2.png">
