@@ -24,7 +24,7 @@ ldr sensor value below from threshold value then the led will turn on.</p>
 <li> Connect LDR's other leg  to a 1 KΩ resistor.</li>
 <li> Connect the other resistor leg to ground.</li>
 <li> Connect ldr-resistor leg to D34 pin of ESP32.</li>
-<li> Connect the led pin with resistor to D22 pin. </li>
+<li> Connect the led pin with resistor to D23 pin. </li>
 <li> Connect the led another pin to the ground. </li>
 </ol>
 </p>
