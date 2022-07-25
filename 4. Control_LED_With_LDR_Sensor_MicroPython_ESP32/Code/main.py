@@ -3,6 +3,7 @@
 # Md. Kamruzzaman Tipu
 # IoT Engineer, BRACNet Limited.
 # it.ktipu@gmail.com, +8801715497977 (Whats app)
+# youtube link https://www.youtube.com/channel/UC_Y7VIu1nsfXuUhJGLTRaog/videos
 
 
 from machine import Pin, ADC
