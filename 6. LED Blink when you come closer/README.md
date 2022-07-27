@@ -1,5 +1,5 @@
 
-<h2>Documentation</h2>
+<h2>Blink LED when you come closer</h2>
 <p>This is a basic project named "blink led when you come closer". In this project we will measure distance using <br>
 ultrasonic sensor.</p>
 
