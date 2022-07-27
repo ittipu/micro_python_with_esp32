@@ -51,5 +51,5 @@ ultrasonic sensor.</p>
 <img src= 'Images/image2.png'>
 <img src= 'Images/image3.png'>
 
-<h3>Youtube</Y3>
+<h3>Youtube</h3>
 https://youtu.be/iodjIniKh1w
