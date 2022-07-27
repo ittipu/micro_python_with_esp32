@@ -1,5 +1,5 @@
 
-<h2>Documentation</h2>
+<h2>Blink LED when you come closer</h2>
 <p>This is a basic project named "blink led when you come closer". In this project we will measure distance using <br>
 ultrasonic sensor.</p>
 
@@ -29,9 +29,27 @@ ultrasonic sensor.</p>
 </ol>
 </p>
 
+<h3>Pin Diagram-</h3>
+<p>
+<ol>
+<li>Connect HC-SR04 VCC pin to VIN pin of ESP32</li>
+<li>Connect HC-SR04 GND pin to GND pin of ESP32.</li>
+<li>Connect HC-SR04 Trig pin to D5 pin of ESP32.</li>
+<li>Connect HC-SR04 Echo pin to D18 pin of ESP32.</li>
+<li>Connect LED pin(big leg/Anode) to D22 pin of ESP32</li>
+<li>Connect LED ground(small leg/Cathode) to GND of ESP32</li>
+</ol>
+</p>
+
 <h3>Schematic Diagram</h3>
-<img src= 'Images/schematic_diagram.png' width=300 height=300>
+<img src= 'Images/schematic_diagram.png' width=600 height=400>
 <h3>Breadboard Diagram</h3>
-<img src= 'breadboard_diagram.png'width=300 height=300>
+<img src= 'Images/breadboard_diagram.png' width=600 height=400>
 
 <h3>Experimental Images</h3>
+<img src= 'Images/image1.png'>
+<img src= 'Images/image2.png'>
+<img src= 'Images/image3.png'>
+
+<h3>Youtube</h3>
+https://youtu.be/iodjIniKh1w
