@@ -1,8 +1,15 @@
+# Micro-Python
+# LED Dimming
+# Md. Kamruzzaman Tipu
+# IoT Engineer, BRACNet Limited.
+# it.ktipu@gmail.com, +8801715497977 (Whats app)
+
+
 from machine import Pin, PWM
 from time import sleep
 
 frequency = 1000
-led = PWM(Pin(23), frequency)
+led = PWM(Pin(22), frequency)
 brightness = 0
 delayTime = 0.01
 
