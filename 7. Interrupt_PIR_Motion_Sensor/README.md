@@ -1,8 +1,9 @@
 
 <h2>Interrupts</h2>
 <p>Interrupts is a feature of micro-controller/micro-processor and very useful for making things happen <br>
-automatically in microcontroller programs. Easy defination - you don't need to constantly check the current pin value. <br>
-WHen a change is detected, and event(a method/function is called) is triggered. When a interrupt happens, 
+automatically in microcontroller programs. <br>
+  <b>Easy defination</b> - you don't need to constantly check the current pin value. <br>
+When a change is detected, and event(a method/function is called) is triggered. When a interrupt happens, 
 the cpu stops current jobs and execute the interrupt task and back to the main job after finished the task.</p>
 
 <h3>Example of Interrupt in MicroPython and ESP32</h3>
