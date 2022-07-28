@@ -43,7 +43,7 @@ the cpu stops current jobs and execute the interrupt task and back to the main j
 <h3>Schematic Diagram</h3>
 <img src= 'Images/schematic_diagram.png' width=600 height=400>
 <h3>Breadboard Diagram</h3>
-<img src= 'Images/breadboard_diagram.png' width=800 height=400>
+<img src= 'Images/breadboard_diagram.png' width=600 height=800>
 
 <h3>Experimental Images</h3>
 <img src= 'Images/image1.png'>
