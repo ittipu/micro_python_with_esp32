@@ -48,8 +48,7 @@ the cpu stops current jobs and execute the interrupt task and back to the main j
 <h3>Experimental Images</h3>
 <img src= 'Images/image1.png'>
 <img src= 'Images/image2.png'>
-<img src= 'Images/image3.png'>
-<img src= 'Images/image3.png'>
+<img src= 'Images/image4.png'>
 
 <h3>Youtube</h3>
 https://youtu.be/iodjIniKh1w
