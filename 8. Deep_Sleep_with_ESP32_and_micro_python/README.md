@@ -59,5 +59,5 @@ The only parts of the chip that remain operational are:
 <img src= 'Images/image2.png'>
 <img src= 'Images/image4.png'>
 
-<h3>Youtube Link: https://www.youtube.com/watch?v=7rRSYMMjpVU</h3>
+<h3>Youtube Link:https://www.youtube.com/watch?v=jGnYGBT45BE</h3>
 
